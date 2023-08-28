@@ -2,6 +2,10 @@
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
+## Auth SDK integration
+
+Use yarn; yarn dev to run the app and click on the blue button to log in using configured social providers.  Compact mode for connect modal is enabled.
+
 ## Available Scripts
 
 In the project directory, you can run:
